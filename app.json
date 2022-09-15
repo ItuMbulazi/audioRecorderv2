@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "audiorecorderv2",
+    "slug": "audiorecorderv2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "audiorecorderv2"
+}
